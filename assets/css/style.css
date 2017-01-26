@@ -36,8 +36,6 @@ li {
 
 }
 .nav { 
-
-	/*padding: 20px;*/
 	color: grey;
 	margin-bottom: 10px;
 	color: #777;
@@ -51,8 +49,24 @@ li {
 	margin-bottom: 10px;
 	background: #ffffff;
 	 color: #777777;	 
+}
+h1{	
+	text-align: left;
+  background: #4aaaa5;
+	margin:0;
+	color: #ffffff;
+	text-align: left;
+	font-family: 'Georgia', Times, serif;
 
+	} 
+
+h2, h3, u{
+	text-decoration: underline;
+	color: #4aaaa5;
+	text-align: left;
+	font-family: 'Georgia', Times, serif;
 }  
+
 .article{
         width: 500px;
         clear: both;
@@ -61,7 +75,6 @@ li {
         width: 100%;
         clear: both;
     }
-}
 
 #paragraph{
 	background-color: #ebebeb;
@@ -79,6 +92,9 @@ p{
 	background: #ebebeb;
 	margin-top: 20px;
 	 color: #777;
+}
+img {
+	float:auto;
 }
 
 aside {
